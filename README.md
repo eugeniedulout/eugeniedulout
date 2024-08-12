@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👩‍🔬 I'm a data scientist living in Atlanta
+- 👩 I'm a data scientist living in Atlanta
 - 🖥️ Graduated with a MS in computer science [@Telecom Paris](https://www.telecom-paris.fr/en/home) & a MS in Biomedical Engineering [@Columbia University](https://www.bme.columbia.edu/master-science-program)
 - 📈 Interested in artificial intelligence, digital transformation, medecine and other cool stuff...
 - 💥 Passionate about art and travelling
